@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">DownloadMultiImage</string>
+
+    <array name="images_array">
+        <item>http://static2.yan.vn/YanNews/2167221/201806/nguoi-dep-nancy-tiep-tuc-bi-nem-da-vi-hat-kem-a8788f5f.jpg</item>
+        <item>https://i.imgur.com/LMrwADY.jpg</item>
+        <item>https://dispatch.cdnser.be/wp-content/uploads/2018/05/8c7d8a7368618f6cc21e41c6d423bdd3.jpg</item>
+        <item>https://data.whicdn.com/images/270544138/large.png</item>
+        <item>https://i.pinimg.com/originals/2b/b9/bd/2bb9bd0af3284a8a83197a29af17631b.jpg</item>
+        <item>https://i.pinimg.com/originals/db/ec/34/dbec348df45ccc0cc307ccfcf580282a.jpg</item>
+        <item>https://i.pinimg.com/originals/56/85/59/568559e4253d3c1c3148b33924f85532.jpg</item>
+        <item>https://philnews.ph/wp-content/uploads/2018/08/Nancy-Jewel-McDonie4.jpg</item>
+        <item>https://i.pinimg.com/originals/32/24/b2/3224b252f72bd5af018ad40d97c129a4.jpg</item>
+        <item>https://scontent-lax3-2.cdninstagram.com/vp/92de905ab141d05b40a42a382d3b7581/5C5142AF/t51.2885-15/e35/36619682_986193141563619_4510064077136986112_n.jpg</item>
+    </array>
+
+    <array name="headline_array">
+        <item>Dance of Democracy</item>
+        <item>Major Naxal attacks in the past</item>
+        <item>BCCI suspends Gurunath pending inquiry </item>
+        <item>Life convict can`t claim freedom after 14 yrs: SC</item>
+        <item>Indian Army refuses to share info on soldiers mutilated at LoC</item>
+        <item>French soldier stabbed; link to Woolwich attack being probed</item>
+        <item>Life convict can`t claim freedom after 14 yrs: SC</item>
+        <item>Life convict can`t claim freedom after 14 yrs: SC</item>
+        <item>Life convict can`t claim freedom after 14 yrs: SC</item>
+        <item>Life convict can`t claim freedom after 14 yrs: SC</item>
+    </array>
+</resources>
